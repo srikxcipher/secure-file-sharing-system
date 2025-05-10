@@ -1,0 +1,16 @@
+➡️ Install pycryptodome if you haven't:
+
+    pip install pycryptodome
+
+
+➡️ Create a file named original.txt with some content in the same directory as client.py. ✅
+
+    original.txt
+
+➡️ Run server.py in one terminal:
+
+    python server.py
+
+➡️ Run client.py in another terminal (after creating original.txt):
+
+    python client.py
