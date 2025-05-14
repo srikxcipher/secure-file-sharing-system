@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top;">
-      <img src="https://github.com/srikxcipher/secure-file-sharing-system/blob/5cdc75a3bcfda05324334c690c14fda463595871/docs/pro-diagram.png" alt="System Diagram" width="55%">
+      <img src="https://github.com/srikxcipher/secure-file-sharing-system/blob/5cdc75a3bcfda05324334c690c14fda463595871/docs/pro-diagram.png" alt="System Diagram" width="80%">
     </td>
     <td style="width: 50%; vertical-align: top;">
       <h3>File Encryption Process</h3>
