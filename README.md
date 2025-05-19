@@ -1,4 +1,4 @@
-# Secure File Sharing System using DES and Diffie Hellman Algo.
+# Secure File Sharing System using DES and Diffie Hellman Algorithm.
 
 ---
 <!--
@@ -58,6 +58,27 @@
         <li><span style="color:blue;">Client Side</span>: handles encryption and hashing</li>
         <li><span style="color:green;">Server Side</span>: handles decryption and verification</li>
       </ul>
+    </td>
+  </tr>
+</table>
+
+  ---
+
+  ### Snapshots
+  <img src="https://github.com/srikxcipher/secure-file-sharing-system/blob/33a7419d0484d877f0055eb8d9047f58113aa7c1/docs/output-doc-page-001.jpg" width="100%">
+
+---
+
+  
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+        <h2> Sender ➡️</h2>
+       <img src="https://github.com/srikxcipher/secure-file-sharing-system/blob/33a7419d0484d877f0055eb8d9047f58113aa7c1/docs/output-doc-page-003.jpg" width="100%">
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+        <h2> Receiver ➡️</h2>
+        <img src="https://github.com/srikxcipher/secure-file-sharing-system/blob/33a7419d0484d877f0055eb8d9047f58113aa7c1/docs/output-doc-page-002.jpg" width="100%">
     </td>
   </tr>
 </table>
